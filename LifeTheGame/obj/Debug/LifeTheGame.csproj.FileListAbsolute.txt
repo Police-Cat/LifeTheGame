@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.exe.config
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.exe
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.pdb
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.Properties.Resources.resources
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.exe
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.pdb
+C:\Users\user\source\repos\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.MainForm.resources
